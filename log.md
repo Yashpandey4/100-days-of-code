@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Ideas worked on**
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+- A OneDrive based Document Management System App for Salesforce platform
+- Personal Portfolio Website
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: June 15, Wednesday
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**:
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+- Did some research for the relevant HTTP endpoint for OneDrive API and documented them [here](https://github.com/Yashpandey4/OneDriveCLI/blob/master/Helpers/DesignFlow.md)
+- Made a simple Node app to authenticate user and upload files to OneDrive [here](https://github.com/Yashpandey4/OneDriveSalesForce/tree/master/uploadScript)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Time taken**: 2.5 hours
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: June 16, Thursday
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**:
 
+- Implemented Sharing of uploaded files
+- Used Fetch node-js dependency for HTTP calls
+- Structured the code to make it more logical/readable.
+- Did website template research for personal portfolio (more on that later)
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Time taken**: 2 hours
