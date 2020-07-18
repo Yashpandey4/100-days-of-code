@@ -1,9 +1,9 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log (Round 1)
 
-**Ideas worked on**
+## Ideas worked on
 
-- A OneDrive based Document Management System App for Salesforce platform
-- Personal Portfolio Website
+- A OneDrive based Document Management System App for Salesforce platform (Started Day 1)
+- Personal Portfolio Website (Started Day 2)
 
 ### Day 1: June 15, Wednesday
 
@@ -24,3 +24,23 @@
 - Did website template research for personal portfolio (more on that later)
 
 **Time taken**: 2 hours
+
+### Day 3: June 17, Friday
+
+**Today's Progress**:
+
+- Brushed up on the basics of Jekyll and Gatsby for website creation
+- started working on a responsive personal website as a blog-cum-portfolio. 
+- Improved the OneDrive DMS code structure to make the code more reobust and scalable.
+
+**Time taken**: 3+ hours
+
+### Day 4: June 18, Saturday
+
+**Today's Progress**:
+
+- Started learning Apex on SalesForce TrailHead to learn how to make apps for SalesForce.  
+- Made further improvements on the personal portfolio website.
+- Started making a resume on the web using React
+
+**Time taken**: 3+ hours
