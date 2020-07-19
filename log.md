@@ -44,3 +44,13 @@
 - Started making a resume on the web using React
 
 **Time taken**: 3+ hours
+
+### Day 5: June 19, Sunday
+
+**Today's Progress**:
+
+- Continued learning Apex on SalesForce TrailHead to learn how to make apps for SalesForce.  
+- Made further improvements on the personal portfolio website.
+- Included the functionality to delete a sharing link to a file on OneDrive DMS
+
+**Time taken**: 3+ hours
