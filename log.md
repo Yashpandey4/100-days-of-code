@@ -2,8 +2,8 @@
 
 ## Ideas worked on
 
-- A OneDrive based Document Management System App for Salesforce platform (Started Day 1)
-- Personal Portfolio Website (Started Day 2)
+- [A OneDrive based Document Management System App for Salesforce platform](https://github.com/Yashpandey4/OneDriveSalesForce) (Started Day 1)
+- [Personal Portfolio Website](https://pratyushpandey.netlify.app/) (Started Day 2)
 
 ### Day 1: June 15, Wednesday
 
@@ -54,3 +54,13 @@
 - Included the functionality to delete a sharing link to a file on OneDrive DMS
 
 **Time taken**: 3+ hours
+
+### Day 6: June 20, Monday
+
+**Today's Progress**:
+
+- Finished the website and put it up on [Netlify here](https://pratyushpandey.netlify.app/)
+- Learnt Springboot, Spring, Eureka, Zuul, GitFlow and Schema Driven UI
+- Improved REST API documentation for OneDrive DMS
+
+**Time taken**: 6 hours
