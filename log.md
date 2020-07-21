@@ -64,3 +64,12 @@
 - Improved REST API documentation for OneDrive DMS
 
 **Time taken**: 6 hours
+
+### Day 7: June 21, Tuesday
+
+**Today's Progress**:
+
+- Decided the schema for the movie information display microservices using Spring and Eureka
+- Did research on revoking persmissions in 
+
+**Time taken**: 6 hours
