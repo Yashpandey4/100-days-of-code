@@ -70,6 +70,6 @@
 **Today's Progress**:
 
 - Decided the schema for the movie information display microservices using Spring and Eureka
-- Did research on revoking persmissions in 
+- Did research on revoking persmissions in OneDrive Salesforce app
 
 **Time taken**: 6 hours
