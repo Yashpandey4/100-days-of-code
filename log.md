@@ -73,3 +73,12 @@
 - Did research on revoking persmissions in OneDrive Salesforce app
 
 **Time taken**: 6 hours
+
+### Day 8: June 22, Wednesday
+
+**Today's Progress**:
+
+- Completed the movie catalog microservice, including the API calls using RestTemplates and WebClients. Configured ports to run each microservice and set up Beans to maintain single instances.
+- Set up a Eureka based Discovery Service for the microservices.
+
+**Time taken**: 6 hours
