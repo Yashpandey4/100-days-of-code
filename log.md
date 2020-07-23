@@ -82,3 +82,12 @@
 - Set up a Eureka based Discovery Service for the microservices.
 
 **Time taken**: 6 hours
+
+### Day 9: June 23, Thursday
+
+**Today's Progress**:
+
+- Read up on Zuul Discovery service and Java Web Tokens (JWT)
+- Tried my hand with React and REST API requests, using Axios and Cyprus (varied results)
+
+**Time taken**: 6 hours
