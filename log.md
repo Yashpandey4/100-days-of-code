@@ -91,3 +91,19 @@
 - Tried my hand with React and REST API requests, using Axios and Cyprus (varied results)
 
 **Time taken**: 6 hours
+
+### Day 10: June 24, Friday
+
+**Today's Progress**:
+
+- Learnt Web Security and JWT using SprintBoot and prototyped the security scheme in the microservices app we are creating.
+
+**Time taken**: 4 hours
+
+### Day 11: June 25, Saturday
+
+**Today's Progress**:
+
+- Experimented with combining the Zuul and JWT services.
+
+**Time taken**: 2 hours
