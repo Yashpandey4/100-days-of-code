@@ -107,3 +107,18 @@
 - Experimented with combining the Zuul and JWT services.
 
 **Time taken**: 2 hours
+
+### Day 12: June 26, Sunday
+
+**Today's Progress**:
+
+- Read up about SOLID principles and Transaction management in Microservices
+
+**Time taken**: 1 hours
+
+### Day 13: June 27, Sunday
+**Today's Progress**:
+
+- Looked into BTPs and emailed professors for the same
+
+**Time taken**: 2 hours
