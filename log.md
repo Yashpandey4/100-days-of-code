@@ -116,9 +116,16 @@
 
 **Time taken**: 1 hours
 
-### Day 13: June 27, Sunday
+### Day 13: June 27, Monday
 **Today's Progress**:
 
 - Looked into BTPs and emailed professors for the same
+
+**Time taken**: 2 hours
+
+### Day 14: June 28, Tuesday
+**Today's Progress**:
+
+- Created lesson plans, slides and final project for codeucate SQLite course
 
 **Time taken**: 2 hours
