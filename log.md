@@ -129,3 +129,13 @@
 - Created lesson plans, slides and final project for codeucate SQLite course
 
 **Time taken**: 2 hours
+
+Note - Had to take a Hiatus during this period due to a weeklong conference, and college reopening. COVID-19 doing its excellent job of making things very uncertain. With that small hiatus, lets get things back on track.
+
+### Day 15: August 10, Monday
+**Today's Progress**:
+
+- Ideated a new COI application's system design from scratch
+- Set-up the project's front-end in typescript/react. Linting was done using eslint, prettier, and Husky. 
+
+**Time taken**: 6+ hours
