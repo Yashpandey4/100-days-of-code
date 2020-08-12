@@ -30,7 +30,7 @@
 **Today's Progress**:
 
 - Brushed up on the basics of Jekyll and Gatsby for website creation
-- started working on a responsive personal website as a blog-cum-portfolio. 
+- started working on a responsive personal website as a blog-cum-portfolio.
 - Improved the OneDrive DMS code structure to make the code more reobust and scalable.
 
 **Time taken**: 3+ hours
@@ -39,7 +39,7 @@
 
 **Today's Progress**:
 
-- Started learning Apex on SalesForce TrailHead to learn how to make apps for SalesForce.  
+- Started learning Apex on SalesForce TrailHead to learn how to make apps for SalesForce.
 - Made further improvements on the personal portfolio website.
 - Started making a resume on the web using React
 
@@ -49,7 +49,7 @@
 
 **Today's Progress**:
 
-- Continued learning Apex on SalesForce TrailHead to learn how to make apps for SalesForce.  
+- Continued learning Apex on SalesForce TrailHead to learn how to make apps for SalesForce.
 - Made further improvements on the personal portfolio website.
 - Included the functionality to delete a sharing link to a file on OneDrive DMS
 
@@ -117,6 +117,7 @@
 **Time taken**: 1 hours
 
 ### Day 13: June 27, Monday
+
 **Today's Progress**:
 
 - Looked into BTPs and emailed professors for the same
@@ -124,6 +125,7 @@
 **Time taken**: 2 hours
 
 ### Day 14: June 28, Tuesday
+
 **Today's Progress**:
 
 - Created lesson plans, slides and final project for codeucate SQLite course
@@ -133,9 +135,28 @@
 Note - Had to take a Hiatus during this period due to a weeklong conference, and college reopening. COVID-19 doing its excellent job of making things very uncertain. With that small hiatus, lets get things back on track.
 
 ### Day 15: August 10, Monday
+
 **Today's Progress**:
 
 - Ideated a new COI application's system design from scratch
-- Set-up the project's front-end in typescript/react. Linting was done using eslint, prettier, and Husky. 
+- Set-up the project's front-end in typescript/react. Linting was done using eslint, prettier, and Husky.
+
+**Time taken**: 6+ hours
+
+### Day 16: August 11, Tuesday
+
+**Today's Progress**:
+
+- Read up on Sage's Native email service and created a HTML template for the email
+- Solved empty repo linting errors in the FE Boilerplate code config
+
+**Time taken**: 6+ hours
+
+### Day 17: August 12, Wednesday
+
+**Today's Progress**:
+
+- Started email service implementation.
+- Solved merge conflict in FE code using rebase.
 
 **Time taken**: 6+ hours
